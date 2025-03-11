@@ -1,3 +1,0 @@
-Best:O(nlogn)
-Avg:O(nlogn)
-Worst:O(nlogn)
